@@ -57,3 +57,4 @@ __anekdataset.py__ -
 
 [___Сслыка на бот___]()
 <br /> [___Ссылка на pythonanywhere___](http://esil11.pythonanywhere.com/)
+<br /> [___Ссылка на сервер___](http://194.28.226.5/anekgpt/)
