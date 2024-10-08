@@ -13,7 +13,7 @@
     ```shell
     python3 main.py
     ```
-    Запустится flask сайт с генерацией анекдотов.
+    Запустится flask сайт с генерацией анекдотов
 
 ## О модели
 - Модель взята отсюда: https://github.com/karpathy/minGPT
