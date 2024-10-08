@@ -56,4 +56,4 @@ __anekdataset.py__ -
 <br /> __train.py__ - 
 
 [___Сслыка на бот___]()
-<br /> [___Ссылка на pythonanywhere___]()
+<br /> [___Ссылка на pythonanywhere___](http://esil11.pythonanywhere.com/)
